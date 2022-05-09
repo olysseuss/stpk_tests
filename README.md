@@ -1,2 +1,2 @@
-# stpk_tests
+# stepik_tests
 homeworks
